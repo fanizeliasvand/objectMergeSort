@@ -1,4 +1,4 @@
-//On my honor, I have neither received nor given any unauthorized assistance on Midterm Exam.-Faniz Eliasvand
+
 
 public class ObjectMergeSorter {
 
